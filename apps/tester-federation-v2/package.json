@@ -41,6 +41,7 @@
     "@babel/core": "^7.29.7",
     "@callstack/repack-plugin-nativewind": "workspace:*",
     "@callstack/repack-plugin-reanimated": "workspace:*",
+    "@e2e-dev/core": "catalog:testers",
     "@e2e-dev/mobile": "catalog:testers",
     "@react-native-community/cli": "catalog:testers",
     "@react-native-community/cli-platform-android": "catalog:testers",
